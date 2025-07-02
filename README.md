@@ -1,6 +1,6 @@
 # Create-a-Strong-Password-and-Evaluate-Its-Strength-task6
 ## Overview:
-This repository contains the deliverables for Task 6: Create a Strong Password and Evaluate Its Strength as part of the Eleyate Cybersecurity Internship. The task focuses on understanding what makes a password strong, testing passwords with an online strength checker, and analyzing password security against common attacks.
+This repository contains the deliverables for Create a Strong Password and Evaluate Its Strength as part of the Elevate Cybersecurity Internship. The task focuses on understanding what makes a password strong, testing passwords with an online strength checker, and analyzing password security against common attacks.
 
 ## Objective:
 Create multiple passwords with varying complexity.
